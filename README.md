@@ -6,7 +6,7 @@ Based on state-of-the-art human pose estimation model [OpenPose](https://github.
 * Feature Extraction
 * Multi-person action recognition using TensorFlow
 
-<img src="https://github.com/christy1206/Ham_volume_prediction/blob/pic/data_elicitation.JPG" width="500" height="300"/>
+<img src="https://github.com/FredZCY/Classroom-Human-Action-Recognition/blob/main/testing%20image.png" width="500" height="300"/>
 
 ## Contact the Author  
 
