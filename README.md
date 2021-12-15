@@ -14,7 +14,7 @@ Continuing...
 
 ***Special thanks*** :pray: for the advice from  
 
-*[Prof. Liu (刘坤宏)](https://cdmc.xmu.edu.cn/info/1010/1055.htm) (Xiamen Uninversity)*  
+*[Prof. Liu (刘坤宏)](https://cdmc.xmu.edu.cn/info/1010/1055.htm) (Xiamen University)*  
 
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
